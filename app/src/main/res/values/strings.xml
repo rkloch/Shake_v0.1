@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shake v3</string>
+    <string name="xAxis">X=%1$s</string>
+    <string name="yAxis">Y=%1$s</string>
+    <string name="zAxis">Z=%1$s</string>
+    <string name="warning_text">Warning, do not shake</string>
+    <string name="lock_switch">Lock values</string>
+    <string name="picture_button">Picture</string>
+    <string name="light_button">Temperature</string>
+    <string name="light">%1$s Lux</string>
+</resources>
